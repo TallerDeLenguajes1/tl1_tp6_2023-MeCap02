@@ -1,0 +1,30 @@
+E:\Mateo\Taller de Lenguajes I\ejercicio2\bin\Debug\net7.0\ejercicio2.exe
+E:\Mateo\Taller de Lenguajes I\ejercicio2\bin\Debug\net7.0\ejercicio2.deps.json
+E:\Mateo\Taller de Lenguajes I\ejercicio2\bin\Debug\net7.0\ejercicio2.runtimeconfig.json
+E:\Mateo\Taller de Lenguajes I\ejercicio2\bin\Debug\net7.0\ejercicio2.dll
+E:\Mateo\Taller de Lenguajes I\ejercicio2\bin\Debug\net7.0\ejercicio2.pdb
+E:\Mateo\Taller de Lenguajes I\ejercicio2\obj\Debug\net7.0\ejercicio2.csproj.AssemblyReference.cache
+E:\Mateo\Taller de Lenguajes I\ejercicio2\obj\Debug\net7.0\ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mateo\Taller de Lenguajes I\ejercicio2\obj\Debug\net7.0\ejercicio2.AssemblyInfoInputs.cache
+E:\Mateo\Taller de Lenguajes I\ejercicio2\obj\Debug\net7.0\ejercicio2.AssemblyInfo.cs
+E:\Mateo\Taller de Lenguajes I\ejercicio2\obj\Debug\net7.0\ejercicio2.csproj.CoreCompileInputs.cache
+E:\Mateo\Taller de Lenguajes I\ejercicio2\obj\Debug\net7.0\ejercicio2.dll
+E:\Mateo\Taller de Lenguajes I\ejercicio2\obj\Debug\net7.0\refint\ejercicio2.dll
+E:\Mateo\Taller de Lenguajes I\ejercicio2\obj\Debug\net7.0\ejercicio2.pdb
+E:\Mateo\Taller de Lenguajes I\ejercicio2\obj\Debug\net7.0\ejercicio2.genruntimeconfig.cache
+E:\Mateo\Taller de Lenguajes I\ejercicio2\obj\Debug\net7.0\ref\ejercicio2.dll
+C:\Users\pablo costilla\Documents\ejercicio3\bin\Debug\net7.0\ejercicio2.exe
+C:\Users\pablo costilla\Documents\ejercicio3\bin\Debug\net7.0\ejercicio2.deps.json
+C:\Users\pablo costilla\Documents\ejercicio3\bin\Debug\net7.0\ejercicio2.runtimeconfig.json
+C:\Users\pablo costilla\Documents\ejercicio3\bin\Debug\net7.0\ejercicio2.dll
+C:\Users\pablo costilla\Documents\ejercicio3\bin\Debug\net7.0\ejercicio2.pdb
+C:\Users\pablo costilla\Documents\ejercicio3\obj\Debug\net7.0\ejercicio2.csproj.AssemblyReference.cache
+C:\Users\pablo costilla\Documents\ejercicio3\obj\Debug\net7.0\ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo costilla\Documents\ejercicio3\obj\Debug\net7.0\ejercicio2.AssemblyInfoInputs.cache
+C:\Users\pablo costilla\Documents\ejercicio3\obj\Debug\net7.0\ejercicio2.AssemblyInfo.cs
+C:\Users\pablo costilla\Documents\ejercicio3\obj\Debug\net7.0\ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\pablo costilla\Documents\ejercicio3\obj\Debug\net7.0\ejercicio2.dll
+C:\Users\pablo costilla\Documents\ejercicio3\obj\Debug\net7.0\refint\ejercicio2.dll
+C:\Users\pablo costilla\Documents\ejercicio3\obj\Debug\net7.0\ejercicio2.pdb
+C:\Users\pablo costilla\Documents\ejercicio3\obj\Debug\net7.0\ejercicio2.genruntimeconfig.cache
+C:\Users\pablo costilla\Documents\ejercicio3\obj\Debug\net7.0\ref\ejercicio2.dll
